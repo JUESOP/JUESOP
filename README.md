@@ -1,4 +1,4 @@
-<h1>Baekjoon Coding Test :computer::pencil2:</h1>
+<h2>Baekjoon Coding Test :computer::pencil2:</h2>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinangun)](https://solved.ac/sinangun)
