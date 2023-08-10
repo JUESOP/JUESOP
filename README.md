@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Hello&desc=I'm%20YiSop&fontSize=60&rotate=10&fontAlignY=16&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=120&section=header&text=Hello&desc=I'm%20YiSop&fontSize=50&rotate=7&fontAlignY=16&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 <div align="center">
 
 ## Introduction 🙇🏻‍♀️
