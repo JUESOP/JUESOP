@@ -27,7 +27,6 @@
 <img src="https://img.shields.io/badge/Intellij-1C1C1C?style=flat-square&logo=intellijidea&logoColor=white"/> 
 <img src="https://img.shields.io/badge/VScode-346BF7?style=flat-square&logo=visualstudiocode&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Eclipse IDE-010D6B?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache tomcat-808000?style=flat-square&logo=apache Tomcat&logoColor=white"/>
 
  <!--알고리즘 -->
 ## :computer:Baekjoon:pencil2:
