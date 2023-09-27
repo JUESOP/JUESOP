@@ -8,7 +8,7 @@
 #### 안녕하세요🖐 같이 일하고 싶은 개발자, 배우는 속도가 5G인 열심히 공부하는 주이솝입니다. (●'◡'●)
 <br/>
 
-🔗[포트폴리오 바로가기](https://juesop.github.io/ESop_Portfolio/portfolio-website-main/index.html)
+<!-- 🔗[포트폴리오 바로가기](https://juesop.github.io/ESop_Portfolio/portfolio-website-main/index.html)-->
 <!--기술스택-->
 
 ## 💻Skills
