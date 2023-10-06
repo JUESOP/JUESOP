@@ -24,6 +24,7 @@
 #### Studying
 <img src="https://img.shields.io/badge/React-black?style=flat&logo=React&logoColor=87cefa"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-BE2E22?style=flat&logo=Angular&logoColor=white"/>
 
 #### Back
 <img src="https://img.shields.io/badge/Python-095096?style=flat&logo=Python&logoColor=white"/>
